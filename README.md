@@ -10,6 +10,7 @@ Le site affiche pour le moment une page vide. Une fonctionnalité sera développ
 ## Installation
 
 ```bash
+go mod exam
 go mod tidy
 go run main.go
 ```
